@@ -1,0 +1,64 @@
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-12 00:08:27"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-12 00:08:27"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-12 00:08:27"}
+{"message":"API [ar-wr-cal.route] called.","level":"info","timestamp":"2021-02-12 00:08:28"}
+{"message":"API [ar-wr-cal.route] called.","level":"info","timestamp":"2021-02-12 00:08:28"}
+{"message":"[ar-wr-cal.service] function getArWrCalcDropDownItems if condition called.","level":"info","timestamp":"2021-02-12 00:08:28"}
+{"message":"[ar-wr-cal.service] if condition called.","level":"info","timestamp":"2021-02-12 00:08:28"}
+{"message":"API [ar-wr-cal.route] getInterferenceInt API called.","level":"info","timestamp":"2021-02-12 00:10:34"}
+{"message":"test (0.006 * stationaryElementIDMax)","level":"info","timestamp":"2021-02-12 00:10:34"}
+{"message":"API [ar-wr-cal.route] getClearance API called.","level":"info","timestamp":"2021-02-12 00:10:50"}
+{"message":"API [ar-wr-cal.route] getClearance API called.","level":"info","timestamp":"2021-02-12 00:11:03"}
+{"message":"API [ar-wr-cal.route] getClearance API called.","level":"info","timestamp":"2021-02-12 00:11:10"}
+{"message":"API [ar-wr-cal.route] getCTEMaterialDetail API called.","level":"info","timestamp":"2021-02-12 00:11:10"}
+{"message":"API [ar-wr-cal.route] getClearance API called.","level":"info","timestamp":"2021-02-12 00:11:26"}
+{"message":"API [ar-wr-cal.route] getCTEMaterialDetail API called.","level":"info","timestamp":"2021-02-12 00:11:26"}
+{"message":"API [ar-wr-cal.route] getClearance API called.","level":"info","timestamp":"2021-02-12 00:11:43"}
+{"message":"API [ar-wr-cal.route] getClearance API called.","level":"info","timestamp":"2021-02-12 00:11:44"}
+{"message":"API [ar-wr-cal.route] floatingCalculation API called.","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"[ar-wr-cal.service] Floating calculation.{\"unit\":\"1\",\"unitTemp\":\"1\",\"pumpType\":{\"id\":1,\"label\":\"OH\",\"value\":1},\"componentType\":{\"id\":1,\"label\":\"Wear Ring\",\"value\":1},\"composite\":{\"id\":5,\"label\":\"WR®600\",\"value\":5},\"clearanceTarget\":{\"id\":1,\"label\":\"Standard\",\"value\":1},\"rotatingElementODMin\":\"1.999\",\"rotatingElementODMax\":\"2.000\",\"rotatingMaterial\":{\"id\":5,\"label\":\"Carbon Steel\",\"value\":\"4\"},\"stationaryElementIDMin\":\"3.000\",\"stationaryElementIDMax\":\"3.005\",\"stationaryMaterial\":{\"id\":5,\"label\":\"Carbon Steel\",\"value\":\"4\"},\"stationaryBoreDepthMin\":\"2.000\",\"serviceStorageTemperatureAmbient75FMin\":\"0\",\"serviceStorageTemperatureAmbient75FMax\":\"300\"}","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"finalOD OR machineCompositeODInch 2.998","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"odTol 0.002","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"lowTempChange -75","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"highTempChange 225","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"stationaryElementIDMax 3.005","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"rotatingElementODMax 2","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"clearanceCLR 0.005","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"statorCTE 0.0000065","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"cteAtTemperatureIDCTE 0","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"cteAtTemperatureODCTE 0.00000388353436031093","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"rotorODGrowthAtMaxTemp 0.0029249999999999996","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"statorIDShrinkageAtMinTemp -0.0014649374999999999","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"compositeODShrinkage 0","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"finalID or finishMachineCompositeIDAfterInstallationInch 0","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"calc 1 0.03035443319330125","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"calc 1 0.0134748380064014","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"calc 2 0.0150473017409693","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"calc 2 0","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"message":"finalOAL or calcMachineCompositeOALInch 3 1.941123427059328","level":"info","timestamp":"2021-02-12 00:11:45"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-12 00:11:45"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-12 00:20:47"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-12 00:20:47"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-12 00:20:47"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-12 00:20:49"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-12 00:20:49"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-12 00:22:36"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-12 00:22:36"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-12 00:22:36"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-12 00:22:42"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-12 00:22:42"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-12 00:26:03"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-12 00:26:03"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-12 00:26:03"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-12 00:26:04"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-12 00:26:04"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-12 00:36:07"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-12 00:36:07"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-12 00:36:07"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-12 00:36:08"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-12 00:36:08"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-12 00:49:21"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-12 00:49:21"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-12 00:49:21"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-12 00:49:22"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-12 00:49:22"}

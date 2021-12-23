@@ -1,0 +1,336 @@
+{"message":"✌️ DB loaded and connected!","level":"info","timestamp":"2021-12-10 04:20:17"}
+{"message":"✌️ Agenda injected into container","level":"info","timestamp":"2021-12-10 04:20:17"}
+{"message":"✌️ Dependency Injector loaded","level":"info","timestamp":"2021-12-10 04:20:17"}
+{"message":"✌️ Jobs loaded","level":"info","timestamp":"2021-12-10 04:20:17"}
+{"message":"✌️ Express loaded","level":"info","timestamp":"2021-12-10 04:20:17"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n      ################################################\n    ","level":"info","timestamp":"2021-12-10 04:20:17"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:20:43"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:20:43"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:20:43"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:20:47"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:20:47"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:20:47"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-12-10 04:20:47"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:20:47"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:20:52"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:20:52"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:20:52"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-12-10 04:20:52"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:20:52"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:20:54"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:20:54"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:20:54"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-12-10 04:20:54"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:20:54"}
+{"message":"API [O-Ring-gland-Analysis-cal.route] called.","level":"info","timestamp":"2021-12-10 04:21:05"}
+{"message":"[O-Ring-gland-Analysis-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:21:05"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:21:30"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:21:30"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:21:30"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:21:39"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:21:39"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:21:39"}
+{"message":"API [O-Ring-gland-Analysis-cal.route] called.","level":"info","timestamp":"2021-12-10 04:21:39"}
+{"message":"[O-Ring-gland-Analysis-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:21:39"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:21:43"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:21:43"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:21:43"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:21:48"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:21:49"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-12-10 04:21:49"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:21:49"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:21:49"}
+{"message":"API [O-Ring-gland-Analysis-cal.route] called.","level":"info","timestamp":"2021-12-10 04:21:54"}
+{"message":"[O-Ring-gland-Analysis-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:21:54"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-12-10 04:21:55"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:21:55"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:22:06"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:22:06"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:22:06"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-12-10 04:22:06"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:22:06"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:22:11"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:22:11"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:22:11"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-12-10 04:22:11"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:22:11"}
+{"message":"API [O-Ring-gland-Analysis-cal.route] called.","level":"info","timestamp":"2021-12-10 04:22:13"}
+{"message":"[O-Ring-gland-Analysis-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:22:13"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-12-10 04:22:25"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:22:25"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:22:27"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:22:27"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:22:27"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-12-10 04:22:27"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:22:27"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:23:17"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:23:17"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:23:17"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-12-10 04:23:17"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:23:17"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:24:32"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:24:32"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:24:32"}
+{"message":"API [ar-wr-cal.route] called.","level":"info","timestamp":"2021-12-10 04:24:33"}
+{"message":"[ar-wr-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:24:33"}
+{"message":"API [ar-wr-cal.route] called.","level":"info","timestamp":"2021-12-10 04:24:33"}
+{"message":"[ar-wr-cal.service] function getArWrCalcDropDownItems if condition called.","level":"info","timestamp":"2021-12-10 04:24:33"}
+{"message":"API [O-Ring-gland-Analysis-cal.route] dashSizeDetails API called.","level":"info","timestamp":"2021-12-10 04:24:41"}
+{"message":"API [Gland-Size-cal.route] createGland API called.","level":"info","timestamp":"2021-12-10 04:24:45"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:45"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:45"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:46"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:47"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:48"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:49"}
+{"message":"[O-Ring-gland-Analysis-cal.service] createRectangleOring called.","level":"info","timestamp":"2021-12-10 04:24:49"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:24:49"}
+{"message":"API [ar-wr-cal.route] getMatlCheck API called.","level":"info","timestamp":"2021-12-10 04:24:52"}
+{"level":"error","message":"🔥 error: File [ar-wr-cal.route] API getMatlCheck  'Data not found.'","timestamp":"2021-12-10 04:24:52"}
+{"message":"API [ar-wr-cal.route] getMatlCheck API called.","level":"info","timestamp":"2021-12-10 04:24:53"}
+{"message":"API [ar-wr-cal.route] getMatlCheck API called.","level":"info","timestamp":"2021-12-10 04:24:53"}
+{"level":"error","message":"🔥 error: File [ar-wr-cal.route] API getMatlCheck  'Data not found.'","timestamp":"2021-12-10 04:24:53"}
+{"level":"error","message":"🔥 error: File [ar-wr-cal.route] API getMatlCheck  'Data not found.'","timestamp":"2021-12-10 04:24:53"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:25:25"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:25:25"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:25:25"}
+{"message":"API [ar-wr-cal.route] called.","level":"info","timestamp":"2021-12-10 04:25:26"}
+{"message":"[ar-wr-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:25:26"}
+{"message":"API [ar-wr-cal.route] called.","level":"info","timestamp":"2021-12-10 04:25:26"}
+{"message":"[ar-wr-cal.service] function getArWrCalcDropDownItems if condition called.","level":"info","timestamp":"2021-12-10 04:25:26"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:25:58"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:25:58"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:25:58"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-12-10 04:25:58"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:25:58"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:26:24"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:26:24"}
+{"message":"API [O-Ring-gland-Analysis-cal.route] called.","level":"info","timestamp":"2021-12-10 04:27:00"}
+{"message":"[O-Ring-gland-Analysis-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:27:00"}
+{"message":"API [ar-wr-cal.route] getMatlCheck API called.","level":"info","timestamp":"2021-12-10 04:35:03"}
+{"level":"error","message":"🔥 error: File [ar-wr-cal.route] API getMatlCheck  'Data not found.'","timestamp":"2021-12-10 04:35:03"}
+{"message":"API [ar-wr-cal.route] getMatlCheck API called.","level":"info","timestamp":"2021-12-10 04:35:26"}
+{"level":"error","message":"🔥 error: File [ar-wr-cal.route] API getMatlCheck  'Data not found.'","timestamp":"2021-12-10 04:35:26"}
+{"message":"API [ar-wr-cal.route] getMatlCheck API called.","level":"info","timestamp":"2021-12-10 04:35:26"}
+{"level":"error","message":"🔥 error: File [ar-wr-cal.route] API getMatlCheck  'Data not found.'","timestamp":"2021-12-10 04:35:26"}
+{"message":"API [ar-wr-cal.route] getMatlCheck API called.","level":"info","timestamp":"2021-12-10 04:35:29"}
+{"level":"error","message":"🔥 error: File [ar-wr-cal.route] API getMatlCheck  'Data not found.'","timestamp":"2021-12-10 04:35:29"}
+{"message":"API [ar-wr-cal.route] getMatlCheck API called.","level":"info","timestamp":"2021-12-10 04:35:29"}
+{"level":"error","message":"🔥 error: File [ar-wr-cal.route] API getMatlCheck  'Data not found.'","timestamp":"2021-12-10 04:35:29"}
+{"message":"API [ar-wr-cal.route] getMatlCheck API called.","level":"info","timestamp":"2021-12-10 04:35:29"}
+{"level":"error","message":"🔥 error: File [ar-wr-cal.route] API getMatlCheck  'Data not found.'","timestamp":"2021-12-10 04:35:29"}
+{"message":"API [ar-wr-cal.route] getMatlCheck API called.","level":"info","timestamp":"2021-12-10 04:35:31"}
+{"message":"API [ar-wr-cal.route] getMatlCheck API called.","level":"info","timestamp":"2021-12-10 04:35:31"}
+{"level":"error","message":"🔥 error: File [ar-wr-cal.route] API getMatlCheck  'Data not found.'","timestamp":"2021-12-10 04:35:31"}
+{"level":"error","message":"🔥 error: File [ar-wr-cal.route] API getMatlCheck  'Data not found.'","timestamp":"2021-12-10 04:35:31"}
+{"message":"API [ar-wr-cal.route] getMatlCheck API called.","level":"info","timestamp":"2021-12-10 04:35:31"}
+{"level":"error","message":"🔥 error: File [ar-wr-cal.route] API getMatlCheck  'Data not found.'","timestamp":"2021-12-10 04:35:31"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:39:33"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:39:33"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:39:33"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:39:37"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:39:37"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:39:37"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-12-10 04:39:42"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-12-10 04:39:42"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-12-10 04:39:42"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-12-10 04:39:42"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-12-10 04:39:42"}

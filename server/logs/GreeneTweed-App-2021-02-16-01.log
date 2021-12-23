@@ -1,0 +1,71 @@
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:22:02"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:22:02"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:22:02"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:22:03"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:22:03"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:22:14"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:22:14"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:22:14"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:22:15"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:22:15"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:22:20"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:22:21"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:22:21"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:22:21"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:22:21"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:27:35"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:27:35"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:27:35"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:27:36"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:27:36"}
+{"message":"✌️ DB loaded and connected!","level":"info","timestamp":"2021-02-16 01:28:16"}
+{"message":"✌️ Agenda injected into container","level":"info","timestamp":"2021-02-16 01:28:16"}
+{"message":"✌️ Dependency Injector loaded","level":"info","timestamp":"2021-02-16 01:28:16"}
+{"message":"✌️ Jobs loaded","level":"info","timestamp":"2021-02-16 01:28:16"}
+{"message":"✌️ Express loaded","level":"info","timestamp":"2021-02-16 01:28:16"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n\n      /var/www/dist/NGv09SMS/index.html\n      ################################################\n    ","level":"info","timestamp":"2021-02-16 01:28:16"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:28:53"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:28:53"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:28:53"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:28:53"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:28:53"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:28:56"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:28:56"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:28:56"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:28:56"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:28:56"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:29:00"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:29:00"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:29:00"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:29:00"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:29:00"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:29:15"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:29:15"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:29:15"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:29:16"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:29:16"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:29:27"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:29:27"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:29:27"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:29:28"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:29:28"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:29:33"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:29:34"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:29:34"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:29:34"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:29:34"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:29:46"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:29:46"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:29:46"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:29:47"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:29:47"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:29:55"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:29:55"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:29:55"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:29:55"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:29:55"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-16 01:30:06"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-16 01:30:07"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-16 01:30:07"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-16 01:30:08"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-16 01:30:08"}

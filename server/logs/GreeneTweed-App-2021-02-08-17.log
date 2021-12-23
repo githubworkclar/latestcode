@@ -1,0 +1,7 @@
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-08 17:21:37"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-08 17:21:37"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-08 17:21:37"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-08 17:21:37"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-08 17:21:37"}
+{"message":"API [O-Ring-gland-Analysis-cal.route] called.","level":"info","timestamp":"2021-02-08 17:25:37"}
+{"message":"[O-Ring-gland-Analysis-cal.service] if condition called.","level":"info","timestamp":"2021-02-08 17:25:37"}

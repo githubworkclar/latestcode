@@ -1,0 +1,78 @@
+{"message":"✌️ DB loaded and connected!","level":"info","timestamp":"2021-02-15 09:46:27"}
+{"message":"✌️ Agenda injected into container","level":"info","timestamp":"2021-02-15 09:46:27"}
+{"message":"✌️ Dependency Injector loaded","level":"info","timestamp":"2021-02-15 09:46:27"}
+{"message":"✌️ Jobs loaded","level":"info","timestamp":"2021-02-15 09:46:27"}
+{"message":"✌️ Express loaded","level":"info","timestamp":"2021-02-15 09:46:27"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n\n      /var/www/dist/NGv09SMS/index.html\n      ################################################\n    ","level":"info","timestamp":"2021-02-15 09:46:27"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:47:18"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:47:18"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:47:18"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:47:24"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:47:24"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:47:24"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:47:35"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:47:36"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:47:36"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-15 09:47:37"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-15 09:47:37"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:47:49"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:47:49"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:47:49"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-15 09:47:50"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-15 09:47:50"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:48:04"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:48:04"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:48:04"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-15 09:48:05"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-15 09:48:05"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:48:11"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:48:11"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:48:11"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:48:25"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:48:25"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:48:25"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-15 09:48:26"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-15 09:48:26"}
+{"message":"✌️ DB loaded and connected!","level":"info","timestamp":"2021-02-15 09:49:24"}
+{"message":"✌️ Agenda injected into container","level":"info","timestamp":"2021-02-15 09:49:24"}
+{"message":"✌️ Dependency Injector loaded","level":"info","timestamp":"2021-02-15 09:49:24"}
+{"message":"✌️ Jobs loaded","level":"info","timestamp":"2021-02-15 09:49:24"}
+{"message":"✌️ Express loaded","level":"info","timestamp":"2021-02-15 09:49:24"}
+{"message":"\n      ################################################\n      🛡️  Server listening on port: 3000 🛡️ \n\n      /var/www/dist/NGv09SMS/index.html\n      ################################################\n    ","level":"info","timestamp":"2021-02-15 09:49:24"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:49:56"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:49:56"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:49:56"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-15 09:49:57"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-15 09:49:57"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:51:18"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:51:18"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:51:18"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-15 09:51:21"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-15 09:51:21"}
+{"message":"API [O-Ring-gland-Analysis-cal.route] called.","level":"info","timestamp":"2021-02-15 09:51:30"}
+{"message":"[O-Ring-gland-Analysis-cal.service] if condition called.","level":"info","timestamp":"2021-02-15 09:51:30"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:52:07"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:52:07"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:52:07"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-15 09:52:10"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-15 09:52:10"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:52:37"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:52:37"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:52:37"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-15 09:52:40"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-15 09:52:40"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:52:59"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:52:59"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:52:59"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-15 09:53:03"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-15 09:53:03"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:53:35"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:53:35"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:53:35"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-15 09:53:39"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-15 09:53:39"}
+{"level":"info","message":"Calling auth endpoint with body: {}","timestamp":"2021-02-15 09:58:16"}
+{"message":"API [common.route] called.","level":"info","timestamp":"2021-02-15 09:58:16"}
+{"message":"[common.service.ts] material choice data found.","level":"info","timestamp":"2021-02-15 09:58:16"}
+{"message":"API [Gland-Size-cal.route] called.","level":"info","timestamp":"2021-02-15 09:58:20"}
+{"message":"[Gland-Size-cal.service] if condition called.","level":"info","timestamp":"2021-02-15 09:58:20"}

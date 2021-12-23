@@ -1,0 +1,184 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/var/www/smsstaging/server/logs/.299056527f9dda278fb6e652f90ebf1dc04698e1-audit.json",
+    "files": [
+        {
+            "date": 1612261069735,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-02-05.log",
+            "hash": "005063cd0bd4a92705868ecd57418806"
+        },
+        {
+            "date": 1612312055710,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-02-19.log",
+            "hash": "2d7e666cf6f9b4fd7f4c8c7f26b94fef"
+        },
+        {
+            "date": 1612352532946,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-03-06.log",
+            "hash": "cc8fddc3e3e7378038247f5fe275c2fe"
+        },
+        {
+            "date": 1612437018740,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-04-06.log",
+            "hash": "5e15a96df2a5f022097044421404e773"
+        },
+        {
+            "date": 1612441778950,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-04-07.log",
+            "hash": "ead737c65f75d69a398db23a48874a06"
+        },
+        {
+            "date": 1612445850561,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-04-08.log",
+            "hash": "42b799f20d15e13963ee3f0736ffcbcc"
+        },
+        {
+            "date": 1612482145931,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-04-18.log",
+            "hash": "83038fc33f1eebf40b579fe2d3686bc7"
+        },
+        {
+            "date": 1612506543837,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-05-01.log",
+            "hash": "650f83569103adf6aa6c281bef50ad94"
+        },
+        {
+            "date": 1612508898344,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-05-02.log",
+            "hash": "9ab01ed6fb155b93f538696ab54830af"
+        },
+        {
+            "date": 1612761968288,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-08-00.log",
+            "hash": "3949d1219341ccb137fae6ec522e1bef"
+        },
+        {
+            "date": 1612779713015,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-08-05.log",
+            "hash": "c21ae7efb96ce7509f7a8d63e0caf2da"
+        },
+        {
+            "date": 1612783686312,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-08-06.log",
+            "hash": "3b2ec724c758193f0dd758b259dd950e"
+        },
+        {
+            "date": 1612822897004,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-08-17.log",
+            "hash": "88d42d980e18e44191e1e58b8cde5850"
+        },
+        {
+            "date": 1612870077164,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-09-06.log",
+            "hash": "68a0565b19ec6ef3f68cc8ffa51e6c31"
+        },
+        {
+            "date": 1612873000584,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-09-07.log",
+            "hash": "0bfa43f14dc3027136b2f5f64eb9b163"
+        },
+        {
+            "date": 1612936483187,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-10-00.log",
+            "hash": "95acacf89b708fad65ef0330440edd2b"
+        },
+        {
+            "date": 1612936952875,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-10-01.log",
+            "hash": "472d3642ba4c8f3acbe5e5f53fce9523"
+        },
+        {
+            "date": 1612941009269,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-10-02.log",
+            "hash": "9f69497261bc0ee0c3f9a02f411118fd"
+        },
+        {
+            "date": 1612948386634,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-10-04.log",
+            "hash": "f6e0965ec684565b19d4b5d500072d31"
+        },
+        {
+            "date": 1613027826573,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-11-02.log",
+            "hash": "019b56f826b0ff7712b434ca30e98ec6"
+        },
+        {
+            "date": 1613034943032,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-11-04.log",
+            "hash": "d43f7bf7d8fc57fb6aa4f60d9dd9ea82"
+        },
+        {
+            "date": 1613037612495,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-11-05.log",
+            "hash": "437dd5c1fe9a2dfee02548e5190c3d40"
+        },
+        {
+            "date": 1613045091535,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-11-07.log",
+            "hash": "0fdce3827b9100aa220cf48c2a1da0b4"
+        },
+        {
+            "date": 1613054650776,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-11-09.log",
+            "hash": "bfd154b5a5c09de5498bea7cdf0d33fe"
+        },
+        {
+            "date": 1613102687520,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-11-23.log",
+            "hash": "bcf3e3a11fa945672e23f9900a56ea50"
+        },
+        {
+            "date": 1613106507964,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-12-00.log",
+            "hash": "3cc2fd55f715349880102db65c539691"
+        },
+        {
+            "date": 1613114035757,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-12-02.log",
+            "hash": "642c003d3ec353802b59d85dba87b6f3"
+        },
+        {
+            "date": 1613127187479,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-12-05.log",
+            "hash": "33e78b9309a488c31085714c0749a3d8"
+        },
+        {
+            "date": 1613310200653,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-14-08.log",
+            "hash": "ca1f4b74aa9feec79900434a9d4875ad"
+        },
+        {
+            "date": 1613311358602,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-14-09.log",
+            "hash": "c26385a16715286f8c0a52ee69e11098"
+        },
+        {
+            "date": 1613389343652,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-15-06.log",
+            "hash": "56e2c85219d8118759fe40e2d7842421"
+        },
+        {
+            "date": 1613396067753,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-15-08.log",
+            "hash": "754ec9228b2cdf39b8b8de1c528552a9"
+        },
+        {
+            "date": 1613400386718,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-15-09.log",
+            "hash": "d062a77b77d6ca63405747188b7f5cd5"
+        },
+        {
+            "date": 1613451739722,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-16-00.log",
+            "hash": "eb16b854d8377084f370250a16eb5615"
+        },
+        {
+            "date": 1613456522263,
+            "name": "/var/www/smsstaging/server/logs/GreeneTweed-App-2021-02-16-01.log",
+            "hash": "368170093485504259e7f040602bcece"
+        }
+    ]
+}

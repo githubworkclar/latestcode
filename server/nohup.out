@@ -1,0 +1,93 @@
+test
+test
+[32minfo[39m:    ✌️ DB loaded and connected!
+[32minfo[39m:    ✌️ Agenda injected into container
+[32minfo[39m:    ✌️ Dependency Injector loaded
+[32minfo[39m:    ✌️ Jobs loaded
+[32minfo[39m:    ✌️ Express loaded
+[32minfo[39m:    
+      ################################################
+      🛡️  Server listening on port: 3000 🛡️ 
+      ################################################
+    
+[32minfo[39m:    API [common.route] called.
+[31merror[39m:   🔥 error: File [common.route]   { TypeError: Cannot read property 'readFile' of undefined
+    at CommonService.getMaterialChoiceJSON (/var/www/html/smsstaging/server/services/common.service.js:31:40)
+    at route.get (/var/www/html/smsstaging/server/api/routes/common.route.js:18:64)
+    at Layer.handle [as handle_request] (/var/www/html/smsstaging/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/smsstaging/server/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/var/www/html/smsstaging/server/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/var/www/html/smsstaging/server/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:275:10)
+    at Function.handle (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:174:3)
+    at router (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:47:12)
+    at Layer.handle [as handle_request] (/var/www/html/smsstaging/server/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:317:13)
+    at /var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:335:12)
+    at next (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:275:10)
+  [stack]: 'TypeError: Cannot read property \'readFile\' of undefined\n    at CommonService.getMaterialChoiceJSON (/var/www/html/smsstaging/server/services/common.service.js:31:40)\n    at route.get (/var/www/html/smsstaging/server/api/routes/common.route.js:18:64)\n    at Layer.handle [as handle_request] (/var/www/html/smsstaging/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/var/www/html/smsstaging/server/node_modules/express/lib/router/route.js:137:13)\n    at Route.dispatch (/var/www/html/smsstaging/server/node_modules/express/lib/router/route.js:112:3)\n    at Layer.handle [as handle_request] (/var/www/html/smsstaging/server/node_modules/express/lib/router/layer.js:95:5)\n    at /var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:281:22\n    at Function.process_params (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:275:10)\n    at Function.handle (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:174:3)\n    at router (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/var/www/html/smsstaging/server/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:317:13)\n    at /var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:284:7\n    at Function.process_params (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:335:12)\n    at next (/var/www/html/smsstaging/server/node_modules/express/lib/router/index.js:275:10)',
+  [message]: 'Cannot read property \'readFile\' of undefined' }
+(node:18994) UnhandledPromiseRejectionWarning: Error: TypeError: Cannot read property 'readFile' of undefined
+    at route.get (/var/www/html/smsstaging/server/api/routes/common.route.js:23:19)
+    at <anonymous>
+    at runMicrotasksCallback (internal/process/next_tick.js:121:5)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+(node:18994) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:18994) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[32minfo[39m:    Calling auth endpoint with body: {}
+[32minfo[39m:    Calling auth endpoint with body: {}
+[32minfo[39m:    Calling auth endpoint with body: {}
+[32minfo[39m:    API [Gland-Size-cal.route] called.
+[31merror[39m:   🔥 error: File [Gland-Size-cal.route]   { TypeError: Cannot read property 'readFile' of undefined
+    at GlandSizeCalcService.getGlandSizeCalcJSON (/var/www/html/smsstaging/server/services/Gland-Size-cal.service.js:54:40)
+    at route.get (/var/www/html/smsstaging/server/api/routes/Gland-Size-cal.route.js:22:64)
+    at Layer.handle [as handle_request] (/var/www/html/smsstaging/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/smsstaging/server/node_modules/express/lib/router/route.js:137:13)
+    at /var/www/html/smsstaging/server/node_modules/express-jwt/lib/index.js:128:7
+    at /var/www/html/smsstaging/server/node_modules/express-jwt/node_modules/async/lib/async.js:52:16
+    at Immediate._onImmediate (/var/www/html/smsstaging/server/node_modules/express-jwt/node_modules/async/lib/async.js:1206:34)
+    at runCallback (timers.js:794:20)
+    at tryOnImmediate (timers.js:752:5)
+    at processImmediate [as _immediateCallback] (timers.js:729:5)
+  [stack]: 'TypeError: Cannot read property \'readFile\' of undefined\n    at GlandSizeCalcService.getGlandSizeCalcJSON (/var/www/html/smsstaging/server/services/Gland-Size-cal.service.js:54:40)\n    at route.get (/var/www/html/smsstaging/server/api/routes/Gland-Size-cal.route.js:22:64)\n    at Layer.handle [as handle_request] (/var/www/html/smsstaging/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/var/www/html/smsstaging/server/node_modules/express/lib/router/route.js:137:13)\n    at /var/www/html/smsstaging/server/node_modules/express-jwt/lib/index.js:128:7\n    at /var/www/html/smsstaging/server/node_modules/express-jwt/node_modules/async/lib/async.js:52:16\n    at Immediate._onImmediate (/var/www/html/smsstaging/server/node_modules/express-jwt/node_modules/async/lib/async.js:1206:34)\n    at runCallback (timers.js:794:20)\n    at tryOnImmediate (timers.js:752:5)\n    at processImmediate [as _immediateCallback] (timers.js:729:5)',
+  [message]: 'Cannot read property \'readFile\' of undefined' }
+(node:18994) UnhandledPromiseRejectionWarning: Error: TypeError: Cannot read property 'readFile' of undefined
+    at route.get (/var/www/html/smsstaging/server/api/routes/Gland-Size-cal.route.js:27:19)
+    at <anonymous>
+    at runMicrotasksCallback (internal/process/next_tick.js:121:5)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+(node:18994) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 6)
+[32minfo[39m:    API [O-Ring-gland-Analysis-cal.route] called.
+[31merror[39m:   🔥 error: File [O-Ring-gland-Analysis-cal.route]   { TypeError: Cannot read property 'readFile' of undefined
+    at ORingGlandAnalysisService.getORingCalcJSON (/var/www/html/smsstaging/server/services/O-Ring-gland-Analysis-cal.service.js:47:40)
+    at route.get (/var/www/html/smsstaging/server/api/routes/O-Ring-gland-Analysis-cal.route.js:20:64)
+    at Layer.handle [as handle_request] (/var/www/html/smsstaging/server/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/smsstaging/server/node_modules/express/lib/router/route.js:137:13)
+    at /var/www/html/smsstaging/server/node_modules/express-jwt/lib/index.js:128:7
+    at /var/www/html/smsstaging/server/node_modules/express-jwt/node_modules/async/lib/async.js:52:16
+    at Immediate._onImmediate (/var/www/html/smsstaging/server/node_modules/express-jwt/node_modules/async/lib/async.js:1206:34)
+    at runCallback (timers.js:794:20)
+    at tryOnImmediate (timers.js:752:5)
+    at processImmediate [as _immediateCallback] (timers.js:729:5)
+  [stack]: 'TypeError: Cannot read property \'readFile\' of undefined\n    at ORingGlandAnalysisService.getORingCalcJSON (/var/www/html/smsstaging/server/services/O-Ring-gland-Analysis-cal.service.js:47:40)\n    at route.get (/var/www/html/smsstaging/server/api/routes/O-Ring-gland-Analysis-cal.route.js:20:64)\n    at Layer.handle [as handle_request] (/var/www/html/smsstaging/server/node_modules/express/lib/router/layer.js:95:5)\n    at next (/var/www/html/smsstaging/server/node_modules/express/lib/router/route.js:137:13)\n    at /var/www/html/smsstaging/server/node_modules/express-jwt/lib/index.js:128:7\n    at /var/www/html/smsstaging/server/node_modules/express-jwt/node_modules/async/lib/async.js:52:16\n    at Immediate._onImmediate (/var/www/html/smsstaging/server/node_modules/express-jwt/node_modules/async/lib/async.js:1206:34)\n    at runCallback (timers.js:794:20)\n    at tryOnImmediate (timers.js:752:5)\n    at processImmediate [as _immediateCallback] (timers.js:729:5)',
+  [message]: 'Cannot read property \'readFile\' of undefined' }
+(node:18994) UnhandledPromiseRejectionWarning: Error: TypeError: Cannot read property 'readFile' of undefined
+    at route.get (/var/www/html/smsstaging/server/api/routes/O-Ring-gland-Analysis-cal.route.js:25:19)
+    at <anonymous>
+    at runMicrotasksCallback (internal/process/next_tick.js:121:5)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickCallback (internal/process/next_tick.js:180:9)
+(node:18994) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 9)
+[32minfo[39m:    Calling auth endpoint with body: {}
+test
+test
+[32minfo[39m:    ✌️ DB loaded and connected!
+[32minfo[39m:    ✌️ Agenda injected into container
+[32minfo[39m:    ✌️ Dependency Injector loaded
+[32minfo[39m:    ✌️ Jobs loaded
+[32minfo[39m:    ✌️ Express loaded
